@@ -1,0 +1,15 @@
+{
+  "name": "mkdir-my-project",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r     <a href=\"https://php.net\">\r         <img\r             alt=\"PHP\"\r             src=\"https://www.php.net/images/logos/new-php-logo.svg\"\r             width=\"150\">\r     </a>\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
